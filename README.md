@@ -1,2 +1,2 @@
-# Predictive Modeling of Higher Heating Value (HHV) using OLS
+# Robust Modeling Extensions: Imputation, Collinearity Control, Model Comparison, and Explainability updated Oct 27, 2025
 This is a first step in modeling and optimization is the systematic curation of biomass feedstock data. This report presents a reproducible workflow for cleaning heterogeneous literature datasets, approximating ultimate analysis (C, H, O, N), and deriving Van Krevelen coordinates (H/C, O/C, N/C).
